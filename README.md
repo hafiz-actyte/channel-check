@@ -49,7 +49,8 @@ check the channel for: <describe the idea>
    build it.
 
 See **[EXAMPLE.md](EXAMPLE.md)** for a real, unedited run — an idea that
-survived demand validation and still lost 3 of its 6 channels.
+survived demand validation and still ate a KILL: the incumbent had patched the
+pain, and every remaining channel was held by free open-source products.
 
 ## Why check channels?
 
