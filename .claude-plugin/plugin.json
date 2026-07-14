@@ -1,0 +1,12 @@
+{
+  "name": "channel-check",
+  "version": "1.0.0",
+  "description": "Validate the CHANNEL, not the idea. Enumerates where an idea's users actually stand, runs live reachability checks with plain web search (no API keys), grades each channel WINNABLE / SATURATED / DEAD, and names the one launch channel — or a KILL.",
+  "author": {
+    "name": "Hafiz Siddiq"
+  },
+  "homepage": "https://github.com/hafiz-actyte/channel-check",
+  "repository": "https://github.com/hafiz-actyte/channel-check",
+  "license": "MIT",
+  "keywords": ["distribution", "go-to-market", "channels", "idea-validation", "startup", "launch", "market-research", "founders", "indie-hackers", "seo", "app-store"]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "channel-check",
+  "metadata": {
+    "description": "Validate the channel, not the idea. Live reachability checks on every distribution channel; one launch channel or a KILL."
+  },
+  "owner": {
+    "name": "Hafiz Siddiq"
+  },
+  "plugins": [
+    {
+      "name": "channel-check",
+      "description": "Check whether an idea's users are reachable before building: enumerate candidate channels, run live free-web reachability checks, grade each WINNABLE / SATURATED / DEAD, deliver the one launch channel or a KILL.",
+      "author": {
+        "name": "Hafiz Siddiq"
+      },
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/hafiz-actyte/channel-check"
+    }
+  ]
+}
