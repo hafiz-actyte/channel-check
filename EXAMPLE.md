@@ -35,11 +35,13 @@ posts** (LocalOneLabs, Memory Chat) in the top 8. Low-authority sites rank this
 long tail today, and incumbents are already running the
 write-the-comparison-post play.
 
-**Reddit** — direct reddit.com fetches are 403-blocked (as the skill warns), so
-via search-snippet stats: **r/NoteTaking = 57K members** with an
-app-recommendation culture; **r/Notion = 346K+ members** (2024 count, still
-growing) — the room where the offline complaint recurs. Reachable by a human
-founder with a genuine build log; both subs police drive-by self-promo.
+**Reddit** — direct reddit.com fetches are 403-blocked (as the skill warns);
+search-snippet stats sites quoted 57K/346K, but the live sidebars (verified
+in-browser 2026-07-14) say **r/NoteTaking = 21K members** (350 weekly
+contributions) and **r/Notion = 115K members** (1K weekly) — third-party stats
+ran up to 3x stale, which is exactly why the skill grades on what the page
+shows today. Still the room where the offline complaint recurs, reachable by a
+human founder with a genuine build log; both subs police drive-by self-promo.
 
 **YouTube search** — `offline note taking app`: category listicles pull
 110K–194K views (Mike and Matty 113K, Techlore 194K, None The Wiser 110K). The
@@ -68,8 +70,9 @@ App Store search   SATURATED   "offline notes" top hits: Obsidian + Standard Not
 Google SEO         WINNABLE    two indie note apps rank their own comparison posts in the
                                top 8 for "best offline note taking app" — low authority
                                ranks this long tail today
-Reddit             WINNABLE    r/NoteTaking 57K + r/Notion 346K+; recommendation culture,
-                               zero cost — for a build log, not drive-by promo
+Reddit             WINNABLE    r/NoteTaking 21K + r/Notion 115K (live sidebar counts);
+                               recommendation culture, zero cost — for a build log, not
+                               drive-by promo
 YouTube search     WINNABLE    (thin) adjacent listicles pull 56K–194K views while "Notion
                                offline alternative 2026" sits at 738 — the intent is
                                proven one query over, the answer video doesn't exist
